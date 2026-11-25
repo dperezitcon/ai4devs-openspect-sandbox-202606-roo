@@ -1,0 +1,22 @@
+﻿# .NET
+bin/
+obj/
+.vs/
+TestResults/
+*.user
+*.suo
+
+# Node.js
+node_modules/
+
+# Entornos y credenciales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Archivos temporales
+*.log
+Thumbs.db
+.DS_Store
